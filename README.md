@@ -1,4 +1,4 @@
-# Gaussian-Process
+# Gaussian Process
 
 Numpy implementation of [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/chapters/), Chapters 2.1 and 2.2.
 
@@ -6,18 +6,18 @@ Numpy implementation of [Gaussian Processes for Machine Learning](http://www.gau
 
 [Gaussian Process Numpy Walkthrough](http://nbviewer.jupyter.org/github/1202kbs/Gaussian-Process/blob/master/Gaussian%20Process%20Regression.ipynb)
 
-## Gaussian Process Regression
+## 2 Gaussian Process Regression
 
-### Weight-space View
+### 2.1 Weight-space View
 
-#### Standard Linear Model
+#### 2.1.1 Standard Linear Model
 
 ![alt tag](https://github.com/1202kbs/Gaussian-Process/blob/master/assets/1.png)
 
-#### Projection of Inputs into Feature Space
+#### 2.1.2 Projection of Inputs into Feature Space
 
 ![alt tag](https://github.com/1202kbs/Gaussian-Process/blob/master/assets/2.png)
 
-### Function-space View
+### 2.2 Function-space View
 
 ![alt tag](https://github.com/1202kbs/Gaussian-Process/blob/master/assets/3.png)
