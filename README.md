@@ -6,7 +6,7 @@ Numpy implementation of [Gaussian Processes for Machine Learning](http://www.gau
 
 [Gaussian Process Numpy Walkthrough](http://nbviewer.jupyter.org/github/1202kbs/Gaussian-Process/blob/master/Gaussian%20Process%20Regression.ipynb)
 
-## Chapter 2 Gaussian Process Regression
+## Chapter 2 Regression
 
 ### 2.1 Weight-space View
 
